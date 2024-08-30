@@ -7,7 +7,7 @@ Rag (Retrieval Augmented Generation) Python solution with llama3, LangChain, Oll
 Run this code first
 
 ```shell
-git clone 
+git clone git@github.com:Lucifer516-sudoer/embedding_with_rag.git
 cd embedding_with_rag
 poetry install
 poetry shell
