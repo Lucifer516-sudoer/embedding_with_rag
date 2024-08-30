@@ -8,7 +8,7 @@ Run this code first
 
 ```shell
 git clone 
-cd Embedding-Using-Rag
+cd embedding_with_rag
 poetry install
 poetry shell
 fastapi dev --port 8080 app.py
